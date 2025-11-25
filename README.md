@@ -1,5 +1,5 @@
 
-## 👋 Hello there! I'm Shreya Choudhary]
+## 👋 Hello there! I'm Shreya Choudhary
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shreyachoudhary25&style=flat-square&color=blue" alt="Profile views counter" />
@@ -8,10 +8,11 @@
 ### 🚀 About Me
 
 - 🎓 I'm a B.Tech CSE undergrad with specialization in Cyber Security interested in exploring new challenges and technologies.
-- 💡 Currently fascinated by  Full Stack Development, Machine Learning, Cloud Computing.
+- 💡 Currently fascinated by  Full Stack Development, Machine Learning and Cloud Computing.
 - 🌱 I’m currently diving deeper into Python FastAPI, React Native, Kubernetes.
-- 🛠️ I have experience working with JavaScript, Python, C++.
-- 💬 How to reach me: Feel free to send me a message on www.linkedin.com/in/shreya-choudhary-866671355.
+- 💬 How to reach me: Feel free to leave a message on LinkedIn!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-choudhary-866671355)
 
 ## 🌐 Connect with Me
 
