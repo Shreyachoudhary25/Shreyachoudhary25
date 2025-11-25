@@ -1,16 +1,74 @@
-## Hi there 👋
 
-<!--
-**Shreyachoudhary25/Shreyachoudhary25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello there! This is Shreya Choudhary]
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shreyachoudhary25&style=flat-square&color=blue" alt="Profile views counter" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 I'm a B.Tech CSE undergrad with specialization in Cyber Security interested in exploring new challenges and technologies.
+- 💡 Currently fascinated by  Full Stack Development, Machine Learning, Cloud Computing.
+- 🌱 I’m currently diving deeper into Python FastAPI, React Native, Kubernetes.
+- 🛠️ I have experience working with JavaScript, Python, C++.
+- 💬 How to reach me: Feel free to send me a message on www.linkedin.com/in/shreya-choudhary-866671355.
+
+---
+
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/shreya-choudhary-866671355">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/Shreyac24">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+---
+
+## 🛠️ My Tech Stack
+
+<p align="left">
+  
+  ### 🌐 Web Development Core
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+
+  ### 🗃️ Databases & Backend
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  
+  ### ⚛️ Frontend Frameworks
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  
+  ### 🐍 Python & Data Ecosystem
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+  </a>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=dark" alt="Random Quote" />
+</p>
+
+---
+
