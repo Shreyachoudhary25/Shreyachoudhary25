@@ -12,8 +12,6 @@
 - 🌱 I’m currently diving deeper into Python FastAPI, React Native, Kubernetes.
 - 💬 How to reach me: Feel free to leave a message on LinkedIn!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-choudhary-866671355)
-
 ## 🌐 Connect with Me
 
 <p align="left">
